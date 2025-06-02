@@ -44,3 +44,4 @@ for i in elements:
 
 driver.quit()
 print('Hello World')
+print("lol")
